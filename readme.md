@@ -8,7 +8,7 @@ Solutions to the three frontend problems. Each folder has its own README with th
 | 2. Fancy Form | [`src/problem2`](./src/problem2) | Token swap form in Vite, React and TypeScript: review step, slippage, price impact warnings, full swap lifecycle. 38 tests. |
 | 3. Messy React | [`src/problem3`](./src/problem3) | 19 issues grouped by impact, each with a fix, plus a refactored component. The original fails strict type-checking with 10 errors. |
 
-Live demo of problem 2: _add the deployed link here_
+Live demo of problem 2: [code-challenge-99tech.vercel.app](https://code-challenge-99tech.vercel.app/)
 
 ## Running
 
